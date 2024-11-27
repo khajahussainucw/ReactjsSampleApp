@@ -73,4 +73,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ### `Simplify Json Data` easily readability
 
-This section has moved here: [(https://jsontotable.org/)](https://jsontotable.org/)
+This section has moved here: [(https://jsontotable.org/)] https://jsontotable.org
