@@ -1,6 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
-
+import { Person } from './Person';
+import React from 'react';
 function App() {
     return (
         <div className="App">
@@ -8,7 +9,7 @@ function App() {
 
                 <img src={logo} className="App-logo" alt="logo" />
                 <p>
-                    Edit <code>src/App.js</code> and save to reload.
+                    Edit <code>src/App.js</code> and save to reload.l
                 </p>
                 <a
                     className="App-link"
@@ -19,6 +20,10 @@ function App() {
                     Learn React super fast
                 </a>
             </header>
+            <hr></hr>
+            <h2>test</h2>
+
+            <Person />
         </div>
     );
 }
